@@ -6,3 +6,4 @@ workflows:
    jobs:
      - k6io/test:
          script: world-payments.js
+#
